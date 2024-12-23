@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: github-actions-repro
+  annotations:
+    github.com/project-slug: mtlewis/github-actions-repro
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/guest
